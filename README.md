@@ -1,3 +1,5 @@
+﻿# Patterns In Go
+
 This is a code for some patterns!)
 
 ~~
